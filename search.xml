@@ -20,6 +20,28 @@
     
     
     <entry>
+      <title>书籍</title>
+      <link href="/Books/index.html"/>
+      <url>/Books/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>书籍</title>
+      <link href="/Books/Books.html"/>
+      <url>/Books/Books.html</url>
+      
+        <content type="html"><![CDATA[<p>调试中…</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
