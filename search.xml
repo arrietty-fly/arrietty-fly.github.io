@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>馆藏目录</title>
-      <link href="/posts/f8cb0423.html"/>
-      <url>/posts/f8cb0423.html</url>
-      
-        <content type="html"><![CDATA[<p>调试中……</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/posts/16107.html"/>
       <url>/posts/16107.html</url>
@@ -33,6 +20,17 @@
     
     
     <entry>
+      <title>书籍</title>
+      <link href="/Books/Books01.html"/>
+      <url>/Books/Books01.html</url>
+      
+        <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center"><img src="/Books/异世之书/诡秘之主.jpg" alt="诡秘之主" style="zoom:20%;" />(<a href="https://book.douban.com/subject/35051813/">https://book.douban.com/subject/35051813/</a>)</th><th style="text-align:left">诡秘之主<br/>作者: <a href="https://book.douban.com/search/爱潜水的乌贼">爱潜水的乌贼</a><br/>     ▶故事简介◀<br/>  周明瑞一夜醒来，发现自己成了鲁恩王国霍伊大学历史系的毕业生克莱恩·莫雷蒂。他有一兄一妹，生活清贫，还遭遇了一场关乎生死存亡的危机。<br/>  为求自保，亦为回归，他启用神秘仪式去往灰雾之上，意外点亮了深红星辰，并以“愚者”之名，召唤活泼可爱的“正义”小姐、心思深沉的“倒吊人”组成塔罗会。在邓恩队长的介绍下，他加入护卫廷根市的值夜者小队，追踪安提哥努斯家族笔记下落，并且服下“占卜家”魔药，正式踏上非凡之路！<br/>  这个蒸汽机械与克苏鲁魔法的世界妙不可言，危险与机遇也总是如影随形！克莱恩能解决时刻笼罩着他的死亡危机吗？诡秘之秘，不可言说。</th></tr></thead><tbody><tr><td style="text-align:center"><img src="/Books/异世之书/地海巫师.jpg" alt="地海巫师" style="zoom:20%;" />(<a href="https://book.douban.com/subject/24882304/">https://book.douban.com/subject/24882304/</a>)</td><td style="text-align:left">地海传奇：地海巫师<br/>作者: <a href="https://book.douban.com/search/厄休拉·勒古恩">(美)厄休拉·勒古恩</a><br/>     ▶故事简介◀<br/>  牧童雀鹰天生拥有法力，他渴求更强大的力量和更深奥的知识，于是选择离开故乡，前往传奇的巫师学院学习，以求出人头地。为了证明实力，他当众施展禁忌法术，召唤亡灵，却铸成大错。他召唤出的恶灵追捕着他，太古的邪恶诱惑着他。为了弥补过错，他步上了一段从未有人完成的追寻之旅，直到海洋的尽头、世界终结之处……</td></tr></tbody></table></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
@@ -45,10 +43,10 @@
     
     <entry>
       <title>书籍</title>
-      <link href="/Books/Books01.html"/>
-      <url>/Books/Books01.html</url>
+      <link href="/Books/Books02.html"/>
+      <url>/Books/Books02.html</url>
       
-        <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center"><img src="/Books/异世之书/诡秘之主.jpg" alt="诡秘之主" style="zoom:20%;" />(<a href="https://book.douban.com/subject/35051813/">https://book.douban.com/subject/35051813/</a>)</th><th style="text-align:left">诡秘之主<br/>作者: <a href="https://book.douban.com/search/爱潜水的乌贼">爱潜水的乌贼</a><br/>     ▶故事简介◀<br/>  周明瑞一夜醒来，发现自己成了鲁恩王国霍伊大学历史系的毕业生克莱恩·莫雷蒂。他有一兄一妹，生活清贫，还遭遇了一场关乎生死存亡的危机。<br/>  为求自保，亦为回归，他启用神秘仪式去往灰雾之上，意外点亮了深红星辰，并以“愚者”之名，召唤活泼可爱的“正义”小姐、心思深沉的“倒吊人”组成塔罗会。在邓恩队长的介绍下，他加入护卫廷根市的值夜者小队，追踪安提哥努斯家族笔记下落，并且服下“占卜家”魔药，正式踏上非凡之路！<br/>  这个蒸汽机械与克苏鲁魔法的世界妙不可言，危险与机遇也总是如影随形！克莱恩能解决时刻笼罩着他的死亡危机吗？诡秘之秘，不可言说。</th></tr></thead><tbody><tr><td style="text-align:center"><img src="/Books/异世之书/地海巫师.jpg" alt="地海巫师" style="zoom:20%;" />(<a href="https://book.douban.com/subject/24882304/">https://book.douban.com/subject/24882304/</a>)</td><td style="text-align:left">地海传奇：地海巫师<br/>作者: <a href="https://book.douban.com/search/厄休拉·勒古恩">(美)厄休拉·勒古恩</a><br/>     ▶故事简介◀<br/>  牧童雀鹰天生拥有法力，他渴求更强大的力量和更深奥的知识，于是选择离开故乡，前往传奇的巫师学院学习，以求出人头地。为了证明实力，他当众施展禁忌法术，召唤亡灵，却铸成大错。他召唤出的恶灵追捕着他，太古的邪恶诱惑着他。为了弥补过错，他步上了一段从未有人完成的追寻之旅，直到海洋的尽头、世界终结之处……</td></tr></tbody></table></div>]]></content>
+        <content type="html"><![CDATA[<p>努力调试中…</p>]]></content>
       
     </entry>
     
@@ -60,17 +58,6 @@
       <url>/Books/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>书籍</title>
-      <link href="/Books/Books02.html"/>
-      <url>/Books/Books02.html</url>
-      
-        <content type="html"><![CDATA[<p>努力调试中…</p>]]></content>
       
     </entry>
     
