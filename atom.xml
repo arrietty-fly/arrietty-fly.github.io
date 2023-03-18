@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-18T03:34:17.550Z</updated>
+  <updated>2023-03-18T03:52:20.408Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,35 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>寻找「自我」的旅途（长期更新）</title>
-    <link href="http://example.com/posts/3ecc41a2.html"/>
-    <id>http://example.com/posts/3ecc41a2.html</id>
-    <published>2023-03-16T00:00:00.000Z</published>
-    <updated>2023-03-18T03:34:17.550Z</updated>
-    
-    <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center"><img src="https://i.328888.xyz/2023/03/18/LP00z.jpeg" alt="人类简史" border="0" style="zoom:80%;" /><a href="https://book.douban.com/subject/25985021/">人类简史</a></th><th style="text-align:center"><img src="https://i.328888.xyz/2023/03/18/LP4ro.jpeg" alt="被讨厌的勇气" border="0" style="zoom:120%;" /><a href="https://book.douban.com/subject/26369699/">被讨厌的勇气</a></th><th style="text-align:center"><img src="https://i.328888.xyz/2023/03/17/LAayv.jpeg" alt="德米安" border="0" style="zoom: 82%;" /><a href="https://book.douban.com/subject/35060088/">德米安</a></th></tr></thead><tbody><tr><td style="text-align:center"></td></tr></tbody></table></div><p>调试中……</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;table-container&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://i.328888.xyz/2023/03/18/LP00z.jpeg&quot; alt=&quot;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>馆藏目录</title>
     <link href="http://example.com/posts/f8cb0423.html"/>
     <id>http://example.com/posts/f8cb0423.html</id>
     <published>2022-10-30T00:00:00.000Z</published>
-    <updated>2023-03-18T03:34:17.550Z</updated>
+    <updated>2023-03-18T03:52:20.408Z</updated>
     
     <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center"><a href="https://arrietty-fly.github.io/魔女与龙之血">魔女与龙之血</a></th><th></th></tr></thead><tbody><tr><td style="text-align:center"></td></tr></tbody></table></div>]]></content>
     
