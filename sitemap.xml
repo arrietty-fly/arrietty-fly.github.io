@@ -38,6 +38,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/%E9%9F%B3%E6%B5%81%E5%92%8F%E5%8F%B9/2307/index.html</loc>
+    
+    <lastmod>2023-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/%E6%A0%BC%E9%87%8C%E8%BE%BE%E5%B0%BC%E4%BA%9A.html</loc>
     
     <lastmod>2023-07-29</lastmod>
@@ -111,15 +120,6 @@
   
   <url>
     <loc>http://example.com/%E5%BC%82%E4%B8%96%E7%9B%B8%E9%81%87/%E9%9F%B3%E6%B5%81%E5%92%8F%E5%8F%B9.html</loc>
-    
-    <lastmod>2023-07-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/%E9%9F%B3%E6%B5%81%E5%92%8F%E5%8F%B9/2307/index.html</loc>
     
     <lastmod>2023-07-29</lastmod>
     
